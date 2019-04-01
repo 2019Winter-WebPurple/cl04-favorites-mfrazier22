@@ -1,0 +1,34 @@
+/*
+* Meredith Frazier
+* April 1, 2019
+* My Favorite Things Classwork
+*/
+
+/* The universal selector */
+
+*{
+    
+}
+
+/* Body properties here */
+
+body {
+    
+    width: 100%; 
+    margin: 5;
+    background: aliceblue; /* This is the background color of the entire page. */
+    color: darkcyan; /* This is the text color of the entire page. */
+    font-family: Arial, Helvetica, sans-serif; /* These are the fonts that the web page will have, in order of availability. */
+    font-size: 20px; /* This is the size of the font. */
+}
+
+h1{
+    
+   color: hotpink; /* This is the text color of the h1. */ 
+    
+}
+
+img {float:right;} /* This floats all images right. */
+#dog {width: 350px; height: 375px;} /* This is the size of the first (dog) image. */
+#disney {width: 350px; height: 235px;} /* This is the size of the second (disney) image. */
+#gyser {width: 450px; height: 300px;} /* This is the size of the third (gyser) image. */
